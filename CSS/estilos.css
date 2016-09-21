@@ -1,0 +1,83 @@
+
+/*font-family: 'Franklin Gothic Book'*/
+
+#contenidos
+{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+
+}
+
+
+/*ETIQUETAS*/
+body
+{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {}
+
+h2
+{
+    font-size: 40px; /*tamaño del título*/
+	font-family: 'Franklin Gothic Book'; /*tamaño del título*/
+	color: #F2B80D;
+	padding: 20px 20px;
+	text-align: right; /*alineación del título del título*/  
+}
+
+h3
+{
+	color: #F2B80D;
+}
+
+h4
+{
+    color: white;
+}
+
+#menu li 
+{	
+	background: #808080;
+	padding: 10px 25px;
+	text-align: center; 
+	font-family: 'Franklin Gothic Book';
+	display: inline-block;
+	list-style: none;
+	font-size: 19px; /*tamaño submenú*/	
+	border-radius: 5px 3px
+}
+
+section{}
+aside{}
+footer{}
+p
+{
+    font-size: 15px;
+	font-weight: bolder;
+	font-family: 'Franklin Gothic Book';
+	padding: 50px 50px;
+	color: white;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+
+
+/*CLASES*/
+
+/*.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}*/
+
+/*SEUDO CLASES*/
